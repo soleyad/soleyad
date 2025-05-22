@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi 👋
+
+### My name is Sóley!
+
+:rocket: I know SQL, VBA for Excel, and am just getting into Python 
+
+I am currently working on building some new projects
+
+This is gonna be fun! 😎
 
 <!--
 **soleyad/soleyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
